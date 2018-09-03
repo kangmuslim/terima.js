@@ -1,0 +1,2 @@
+# terima.js
+terima
